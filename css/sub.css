@@ -1,0 +1,211 @@
+.section-banner{
+    height: 280px;
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+.banner-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color:#fff;
+}
+.inner-page-section-1{
+    padding: 120px;
+    background-position: center;
+    background-size: contain; 
+    background-repeat: no-repeat;
+}
+.inner-page-section-2{
+    padding: 100px 120px;
+}
+hr.divider-1{
+    width: 20%;
+    border-top: 2px solid #004C85;
+}
+hr.divider-1-center{
+    display: block;
+    margin: 20px auto;
+    width: 20%;
+    border-top: 2px solid #004C85;
+}
+.primary-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#004C85;
+}
+.primary-text{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:#000;
+}
+.sec-1-img img, .sec-2-img img{
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    height: 570px;
+    object-fit: cover;
+}
+.sdss-section{
+    padding: 50px;
+    height: 200px;
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.sdss-title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#fff;
+    text-align: center;
+}
+.contact-section{
+    padding: 50px 120px;
+    background-position: center bottom;
+    background-size: contain; 
+    background-repeat: no-repeat;
+}
+.contact-wrap{
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.contact-img{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+.contact-form input[type=text], input[type=tel], input[type=email], textarea{
+    display: block;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color:#000;
+    margin-bottom: 10px;
+    padding: 5px 15px;
+    background-color: #EFEFEF;
+    border: none;
+    width: 100%;
+}
+.contact-form ::placeholder{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+.contact-form label{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color:#000;
+}
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+}
+label.checkbox-inline{
+    font-family: "Poppins", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: #000;
+    text-align: center;
+}
+.contact-from-btn{
+    background-color: #004C85;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border: none;
+    padding: 12px 65px;
+}
+
+/*about-us-*/
+.about-us-sec{
+    padding: 80px 120px;
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.team-card{
+    position: relative;
+    overflow: hidden;
+}
+.team-img img{
+    width: 320px;
+    height: 350px;
+    object-fit: cover;
+    object-position: center top;
+}
+.team-details{
+    background-color: #004C85;
+    width: 320px;
+    padding: 10px 20px;
+    z-index: 1;
+}
+.social-links ul li{
+    display: inline-block;
+}
+.social-links i.fa {
+    color:#fff;
+    font-size: 12px;
+    margin-right: 5px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    padding: 0.5em 0.6em;
+}
+.social-links i.fa:hover{
+    background-color: #fff;
+    color:#00224B;
+}
+.social-links .fa-facebook{
+    padding: 0.5em 0.75em !important;
+}
+.social-links .fa-linkedin{
+    padding: 0.5em 0.65em !important;
+}
+.team-name{
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.team-position{
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.share-col{
+    height: 80px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+.share-btn{
+    padding: 10px 15px;
+    border-radius: 50%;
+    border: none;
+}
+.share-btn i.fa{
+    color:#004C85;
+    font-size: 30px;
+}

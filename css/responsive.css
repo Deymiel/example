@@ -1,0 +1,522 @@
+@media(min-width: 1200px){
+    .container{
+        max-width: 1280px;
+    }
+}
+
+
+
+@media(max-width: 1600px){
+    header .navbar-brand img {
+        width: 150px;
+    }
+    header .navbar-brand {
+        margin-bottom: -6rem;
+    }
+    header .navbar-nav li a.menu-link {
+        font-size: 16px;
+    }
+    .recent-list li .post-wrapper .date-comment div {
+        font-size: 14px;
+    }
+    .product-section .panel-2 .product-name {
+        font-size: 30px;
+    }
+    .product-section .panel-3 .form-wrapper .product-price {
+        font-size: 30px;
+    }
+    .product-section .panel-2 .product-publish {
+        font-size: 20px;
+    }
+    .product-feature .list-heading {
+        font-size: 30px;
+    }
+    .section-heading h2 {
+        font-size: 40px;
+    }
+}
+
+
+@media(max-width: 1400px){
+    header {
+        padding: 10px 0;
+    }
+    .primary-title {
+        font-size: 30px;
+    }
+    .contact-section .c-wrapper .form-wrapper h2 {
+        font-size: 30px;
+    }
+    footer .contact-info h2 {
+        font-size: 18px;
+    }
+    footer .contact-info ul li {
+        font-size: 12px;
+    }
+    footer .footer-links ul li a {
+        font-size: 16px;
+    }
+    footer .footer-links h2 {
+        font-size: 20px;
+    }
+    img.logo {
+        width: 130px;
+    }
+    footer .social-media a {
+        height: 35px;
+        width: 35px;
+    }
+    footer .social-media a i {
+        font-size: 15px;
+    }
+    .contact-section {
+        padding: 50px 0px;
+    }
+    .page-banner {
+        min-height: 400px;
+    }
+    .billing-info .bill-form .input-group label, .billing-info .additional-option .input-group label {
+        font-size: 14px;
+    }
+    .billing-info .bill-form .input-group input {
+        height: 40px;
+        font-size: 16px;
+    }
+    .billing-info .other-info .order-wrapper .order-heading {
+        font-size: 24px;
+    }
+    .billing-info .other-info .order-wrapper .total-compute h2 {
+        font-size: 20px;
+    }
+    .billing-info .other-info .order-wrapper .total-row h2 {
+        font-size: 16px;
+    }
+    .billing-info .other-info .note p {
+        font-size: 14px;
+    }
+    .banner-title, .page-banner h1 {
+        font-size: 30px;
+    }
+    .service-list li .service-wrapper .service-name {
+        font-size: 30px;
+    }
+    .review-list li .review-wrapper .profile-wrapper img {
+        height: 120px;
+        width: 120px;
+    }
+    .section-heading h2 {
+        font-size: 30px;
+    }
+    .review-list li .review-wrapper .review-content p {
+        font-size: 12px;
+    }
+    .service-list li .service-wrapper {
+        min-height: 500px;
+    }
+    .product-section .panel-2 .product-desc p, .product-feature .feature-list li p {
+        font-size: 14px;
+    }
+    .related-list li .product-wrapper .product-content h2 {
+        font-size: 25px;
+    }
+    .related-list li .product-wrapper .product-content p {
+        font-size: 14px;
+    }
+    .related-list li .product-wrapper .product-content h3 {
+        font-size: 12px;
+    }
+    .related-list li .product-wrapper .product-content a {
+        font-size: 14px;
+    }
+    .section-padding {
+        padding: 50px 0;
+    }
+}
+
+
+@media(max-width: 991px){
+    header .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-toggler {
+        padding: 6px 20px;
+    }
+    header .navbar-brand {
+        margin-bottom: -4rem;
+    }
+    header .navbar-nav li a.menu-link {
+        font-size: 12px;
+    }
+    .navbar-nav {
+        margin-top: 70px;
+    }
+    .banner-section .guide {
+        width: 2vw;
+    }
+    .banner-section .banner-wrapper h1 {
+        font-size: 30px;
+    }
+    .banner-section .banner-wrapper p {
+        font-size: 14px;
+    }
+    .banner-section .banner-slider .owl-dots .owl-dot {
+        height: 15px;
+        width: 15px;
+    }
+    .block-wrapper h2 {
+        font-size: 30px;
+    }
+    .block-wrapper p {
+        font-size: 16px;
+    }
+    .btn-primary {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    .section-heading h2 {
+        font-size: 30px;
+    }
+    .group-list li .wrapper {
+        min-height: 520px;
+    }
+    .group-list li .wrapper .bottom-wrapper .group-name {
+        font-size: 20px;
+    }
+    .group-list li .wrapper .bottom-wrapper .icon-wrapper {
+        height: 140px;
+        width: 140px;
+        padding: 24px;
+    }
+    .contact-section .c-wrapper .form-wrapper h2 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .contact-section .c-wrapper .form-wrapper .input-select .check-wrapper {
+        margin-bottom: 10px;
+    }
+    .logo-panel{
+        text-align: left !important;
+    }
+    footer .social-media {
+        justify-content: flex-start;
+        margin-bottom: 20px;
+    }
+    .contact-info{
+        text-align: left !important;
+    }
+    footer .contact-info .contact-btn {
+        width: fit-content;
+    }
+    footer .footer-links ul li a {
+        font-size: 14px;
+    }
+    footer .footer-links ul {
+        column-count: 1;
+    }
+    footer .footer-links h2, footer .contact-info h2 {
+        font-size: 18px;
+    }
+    footer .blue-strip .note-row p {
+        font-size: 11px;
+    }
+    footer .blue-strip .note-row ul li a {
+        font-size: 10px;
+    }
+    .section-banner {
+        height: auto;
+        min-height: 300px;
+    }
+    .banner-title {
+        font-size: 30px;
+    }
+    .about-us-sec {
+        padding: 50px 0 0;
+    }
+    .team-img img {
+        width: 100%;
+        height: 250px;
+    }
+    .team-name {
+        font-size: 16px;
+    }
+    .inner-page-section-1,
+    .inner-page-section-2 {
+        padding: 50px 5%;
+    }
+    .sdss-title {
+        font-size: 24px;
+    }
+    .primary-title {
+        font-size: 24px;
+    }
+    .primary-text {
+        font-size: 14px;
+    }
+    .dekstop-textarea{
+        display: none;
+    }
+    .billing-info .additional-option .input-group textarea {
+        height: 300px;
+    }
+    .side-panel .content-panel h2 {
+        font-size: 30px;
+    }
+    .side-panel .content-panel a {
+        padding: 16px;
+        font-size: 16px;
+    }
+    .recent-list li .post-wrapper .post-wrapper {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+    .blog-section .side-blog .recent-post .panel-heading {
+        font-size: 16px;
+    }
+    .side-panel {
+        min-height: 300px;
+    }
+    .service-list li .service-wrapper .overlay-content a {
+        padding: 10px 40px;
+        font-size: 16px;
+    }
+    .product-section .panel-2{
+        padding: 20px 0;
+    }
+    .related-list li .product-wrapper {
+        margin-bottom: 20px;
+    }
+    .side-nav-header {
+        font-size: 24px;
+    }
+    .categories-wrapper .cat-list li a {
+        font-size: 16px;
+    }
+    .product-list {
+        margin-top: 20px;
+    }
+    .product-list li .row .product-content .product-name {
+        font-size: 40px;
+    }
+    .product-list li .row .product-content .product-desc {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 768px){
+    .section-padding {
+        padding: 50px 0;
+    }
+    .logo-section .design-1 {
+        left: -15rem;
+        opacity: 0.5;
+    }
+    .logo-section .design-2 {
+        right: -15rem;
+        opacity: 0.5;
+    }
+    .section-heading p {
+        font-size: 14px;
+    }
+    .section-heading h2 {
+        font-size: 25px;
+    }
+    .review-list li .review-wrapper .review-content p {
+        font-size: 14px;
+    }
+    .primary-title {
+        font-size: 25px;
+    }
+    .page-banner {
+        min-height: 300px;
+    }
+    .blog-content-inner .blog-wrapper img {
+        height: 300px;
+    }
+    .blog-content-inner {
+        margin-top: 20px;
+    }
+    .blog-section {
+        padding: 50px 0;
+    }
+    .account-banner h1 {
+        margin-top: 5rem;
+    }
+    .account-section {
+        padding: 50px 0;
+    }
+    .form-account .input-group h2 {
+        font-size: 16px;
+    }
+    .form-account .input-group input {
+        height: 45px;
+    }
+    .form-account .input-group {
+        margin-bottom: 20px;
+    }
+    .form-account .input-submit button {
+        font-size: 14px;
+    }
+    .form-option a {
+        font-size: 14px;
+    }
+    .form-option img {
+        max-width: 20px;
+    }
+    .account-banner h1 {
+        text-align: center;
+    }
+    .verify-message h2 {
+        font-size: 25px;
+    }
+    .verify-message p {
+        font-size: 14px;
+    }
+    .service-list li .service-wrapper .service-name {
+        font-size: 24px;
+    }
+    .service-list li .service-wrapper {
+        min-height: 430px;
+    }
+    .service-list li .service-wrapper .overlay-content p {
+        font-size: 14px;
+    }
+    .service-list li .service-wrapper .service-name {
+        font-size: 18px;
+    }
+    .service-list li .service-wrapper .overlay-content p {
+        font-size: 14px;
+        overflow-y: scroll;
+        padding-right: 20px;
+    }
+    .product-section .panel-1 .product-image {
+        height: 250px;
+    }
+    .product-section .panel-2 .product-type {
+        font-size: 14px;
+    }
+    .product-list li .row .product-content .product-name {
+        font-size: 25px;
+    }
+    .product-list li .row .product-content .product-desc {
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 767px){
+    .team-details {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .primary-text {
+        font-size: 12px;
+    }
+    .product-list li .row .product-content {
+        padding: 25px;
+    }
+    .video-list li .video-wrapper .video-content h2 {
+        font-size: 18px;
+    }
+    .video-list li .video-wrapper .video-content p {
+        font-size: 14px;
+    }
+}
+
+@media(max-width: 600px){
+    .impact-list, .impact .nav-arrows {
+        padding: 0 30px;
+    }
+    .section-heading h2, .contact-section .c-wrapper .form-wrapper h2 {
+        font-size: 25px;
+    }
+    .review-wrapper .row [class*=col-]{
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    footer .logo{
+        max-width: 120px;
+    }
+    footer .social-media a {
+        height: 30px;
+        width: 30px;
+        margin: 0 5px;
+    }
+    footer .social-media a i {
+        font-size: 15px;
+    }
+    footer .blue-strip .note-row {
+        flex-direction: column;
+    }
+    footer .blue-strip .note-row p {
+        order: 2;
+        margin-top: 5px;
+    }
+    .impact .nav-arrows div img {
+        width: 40px;
+    }
+    .sdss-title {
+        font-size: 16px;
+    }
+    .billing-info .other-info .payment .payment-row div img{
+        width: 45vw;
+    }
+    .billing-info .other-info .order-wrapper .order-heading {
+        font-size: 20px;
+    }
+    .billing-info .other-info .order-wrapper .total-compute h2 {
+        font-size: 16px;
+    }
+    .form-account .input-group input {
+        height: 40px;
+    }
+    .verify-message h2 {
+        font-size: 20px;
+    }
+    .product-section .panel-3 .form-wrapper {
+        padding: 20px;
+    }
+    .product-section .panel-3 .form-wrapper .product-price {
+        font-size: 25px;
+    }
+    .product-section .panel-3 .form-wrapper .total h4 {
+        font-size: 16px;
+    }
+    .product-section .panel-3 .form-wrapper .total h3 {
+        font-size: 16px;
+    }
+    .product-feature .list-heading {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .product-feature .feature-list {
+        padding-top: 20px;
+    }
+    .related-list li .product-wrapper {
+        flex-direction: column;
+    }
+    .related-list li .product-wrapper img {
+        width: 100%;
+    }
+    .related-list li .product-wrapper .product-content {
+        width: 100%;
+    }
+    .product-list li .row .product-content .product-info {
+        flex-direction: column;
+    }
+    .product-list li .row .product-content .product-info p {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width: 500px){
+    .impact-list .impact-wrapper {
+        min-height: 300px;
+    }
+    .impact .nav-arrows div img {
+        width: 30px;
+    }
+    .account-banner h1 {
+        text-align: center;
+        font-size: 23px;
+    }
+    
+}
